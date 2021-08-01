@@ -1,4 +1,3 @@
 argparse
 pythonping
 psutil
-yaml
